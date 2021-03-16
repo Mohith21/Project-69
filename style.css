@@ -1,0 +1,28 @@
+html {
+    text-align: center;
+}
+
+#marquee {
+    font-size: 30px;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.achievement1 {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievement i {
+    float: right;
+}
+#h2{
+    color:darkorange;
+    font-weight:bold;
+}
